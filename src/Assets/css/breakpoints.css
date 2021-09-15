@@ -1,0 +1,37 @@
+/* X-Small Devices (xs) */
+
+
+/* Small Devices (sm) */
+@media (min-width: 576px) {
+    body {
+        background-color: green;
+    }
+}
+
+/* Medium Devives (md) */
+@media (min-width: 768px) {
+    body {
+        background-color: blue;
+    }
+}
+
+/* Large Devives (lg) */
+@media (min-width: 992px) {
+    body {
+        background-color: red;
+    }
+}
+
+/* X-Large Devives (xl) */
+@media (min-width: 1200px) {
+    body {
+        background-color: green;
+    }
+}
+
+/* XX-Large Devives (xxl) */
+@media (min-width: 1400px) {
+    body {
+        background-color: blue;
+    }
+}
